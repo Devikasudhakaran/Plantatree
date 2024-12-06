@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43656529552",
+    "project_id": "plant-a-tree-376ab",
+    "storage_bucket": "plant-a-tree-376ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43656529552:android:6d8c81aa70c68b557b3a15",
+        "android_client_info": {
+          "package_name": "com.infigoes.plantatree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAug6lE9_87QOGGV_nE2qwbnXaiOGyC9a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
